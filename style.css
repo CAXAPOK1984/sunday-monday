@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: blanchedalmond;
+  color: peru;
+}
+
+header {
+  background-color: bisque;
+}
+
+td, table {
+  border: 1px solid goldenrod;
+}
+
+footer {
+  background-color: bisque; padding: 0px 5px;
+}
